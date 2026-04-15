@@ -1,1 +1,2 @@
 
+https://github.com/faith-muendi/soc-brute-force-detection-splunk/blob/main/02_Failed_Logins_Splunk.png.png
